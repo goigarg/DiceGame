@@ -24,10 +24,10 @@ function diceGame() {
   let h1 = document.querySelector('h1');
 
   if (player1 > player2) {
-    h1.innerText = 'Player 1 Wins';
+    h1.innerText = 'Player 1 Wins 🎉';
   }
   else if(player1 < player2) {
-    h1.innerText = 'Player 2 Wins';
+    h1.innerText = 'Player 2 Wins 🎉';
   }
   else if (player1 == player2) {
     h1.innerText = 'Draw';
