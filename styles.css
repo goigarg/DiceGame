@@ -42,6 +42,9 @@ img {
 footer {
   font-family: 'Indie Flower', cursive;
   margin-top: 5%;
-  color: #EEEEEE;
   text-align: center;
+}
+a {
+  text-decoration: none;
+  color: #EEEEEE;
 }
