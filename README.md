@@ -4,4 +4,4 @@ A simple dice game using javascript, Html and Css
 
 
 DEMO HERE
-https://goigarg.github.io/DiceGame/
+https://dice.shiv.ovh
