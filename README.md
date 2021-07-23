@@ -1,7 +1,7 @@
 # DiceGame
 
-A simple dice game using javascript, Html and Css
+A simple dice game using Javascript, Html and Css
 
 
-DEMO HERE
+## Demo
 https://dice.shiv.ovh
